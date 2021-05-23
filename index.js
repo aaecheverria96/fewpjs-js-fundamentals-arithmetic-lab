@@ -10,7 +10,5 @@ var num3 = 3;
 var num4 = 12; 
 var mod = num4 / num3 ; 
 
-const mySet = new Set() 
-mySet.add(1) 
-mySet.add(20)  
-Math.max(mySet);
+var max = 20; 
+Math.max 
